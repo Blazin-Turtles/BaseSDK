@@ -4,7 +4,7 @@ package org.firstinspires.ftc.teamcode;
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 
 @Autonomous
-public class BlueClose extends TurtleOpMode {
+public class SquareAuto extends TurtleOpMode {
 
     int step = 0;
 
